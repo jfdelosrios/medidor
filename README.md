@@ -1,12 +1,14 @@
 # Medidor.
 
+Script para [MetaTrader 5]( https://www.metatrader5.com/)
+
 ## Función.
 
-Script que da a conocer:
+Da a conocer:
 
 * Cuantos pixeles hay en cierta cantidad de puntos.
 
-* Cuantas puntos hay en cierta cantidad de pixeles.
+* Cuantos puntos hay en cierta cantidad de pixeles.
 
 Imprime el resultado en la pestaña Expertos de la caja de herramientas de la plataforma Metatrader.
 
@@ -18,8 +20,8 @@ Imprime el resultado en la pestaña Expertos de la caja de herramientas de la pl
 
 * Cantidad de pixeles, si Tipo de entrada es Puntos a pixeles.
 
-* Cantidad de puntos , si Tipo de entrada es Pixeles a puntos.
+* Cantidad de puntos, si Tipo de entrada es Pixeles a puntos.
 
 ## Requisitos.
 
-El codigo sólo corre en Metatrader 5.
+El código sólo corre en [MetaTrader 5]( https://www.metatrader5.com/).
